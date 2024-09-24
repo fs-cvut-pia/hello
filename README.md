@@ -7,4 +7,4 @@ Na úvodní hodině se naučíte úplné základy práce s platformou Github a p
 - (Windows) Nainstalujte balík s překladačem pro C/C++ ... https://sourceforge.net/projects/mingw/ apod.
 - Nainstalujte si IDE (vývojové prostředí) v kterém budete pracovat.
 - Naklonujte si tento repozitář buď přímo v IDE nebo pomocí příkazu `git clone https://github.com/fs-cvut-pia/hello/` v Linuxu.
-- Přeložte a spusťe program pomocí funkcí *build* a *run*.
+- Přeložte a spusťe program pomocí funkce *RUN C/C++ file*.
